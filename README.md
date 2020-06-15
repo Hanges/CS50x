@@ -45,7 +45,7 @@ Hello. I Was Waiting for You.
 
 
 ## TODO
-- Scratch Game
+- Problem Set 0
 
 
 ## Ideas
