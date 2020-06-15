@@ -18,7 +18,7 @@ My Personal Portfolio Site is "Under Construction" since the first time I used N
 
 It is a Conscious Experiment of Shame.
 
-##Personal Log
+## Personal Log
 
 Hi. My Name is Rafael Hanges and I'm a 37yo "Married with Childrens" Kind of Guy. I Love my Family. And this is Important.
 
@@ -34,17 +34,17 @@ Soon or Later I had access to a list with phone numbers, usernames and passwords
 
 Hello Internet. I Was Waiting for You.
 
-##Log
+## Log
 15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/
 
 Half of a Half
 
 
-##TODO
+## TODO
 - Scratch Game
 
 
-##Ideas
+## Ideas
 
 **Vaca Verde Kids** - An Interactive Learning Game
 Letters and Numbers in English and Portuguese.
