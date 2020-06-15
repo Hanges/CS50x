@@ -51,6 +51,7 @@ Half of a Half
 
 ## Ideas
 
-**Vaca Verde Kids** - An Interactive Learning Game
-Letters and Numbers in English and Portuguese.
-Audience: My Son, Ashtar, 2yo
+* **Vaca Verde Kids** 
+ * An Interactive Learning Game
+ * Letters and Numbers in English and Portuguese.
+ * Audience: My Son, Ashtar, 2yo
