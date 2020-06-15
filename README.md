@@ -7,12 +7,18 @@ Rio de Janeiro, RJ, Brazil
 
 Hello. This is My Personal Log and TODO list for the Problem Sets of the Ongoing Harvard's CS50x 2020 Introduction to Computer Science.
 
-*About the Course:*
+**About the Course:**
 
 https://cs50.harvard.edu/x/2020/
 https://www.edx.org/course/cs50s-introduction-to-computer-science/
 
-*Personal Log*
+**About Me:**
+https://www.hanges.com.br
+My Personal Portfolio Site is "Under Construction" since the first time I used Netscape Navigator Gold 3.0.
+
+It is a Conscious Experiment of Shame.
+
+##Personal Log
 
 Hi. My Name is Rafael Hanges and I'm a 37yo "Married with Childrens" Kind of Guy. I Love my Family. And this is Important.
 
@@ -24,28 +30,22 @@ Top Eterteinment available in Brazilian TV.
 
 Thanks to the Show, "Internet" became a Word, as well "Web" and "Download".
 
-Soon or Later I had access to a list with numbers, usernames and passwords to some providers to dial using a software called "Trumpet", on the Windows 3.11. 
+Soon or Later I had access to a list with phone numbers, usernames and passwords to some providers to dial using a software called Trumpet on the Windows 3.11. 
 
 Hello Internet. I Was Waiting for You.
 
-*About Me:*
-https://www.hanges.com.br
-My Personal Portfolio Site is "Under Construction" since the first time I used Netscape Navigator Gold 3.0.
-
-It is a Conscious Experiment of Shame.
-
-*Log*
+##Log
 15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/
 
 Half of a Half
 
 
-*TODO*
+##TODO
 - Scratch Game
 
 
-*Ideas*
+##Ideas
 
-*Vaca Verde Kids* - An Interactive Learning Game
+**Vaca Verde Kids** - An Interactive Learning Game
 Letters and Numbers in English and Portuguese.
 Audience: My Son, Ashtar, 2yo
