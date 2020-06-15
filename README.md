@@ -10,15 +10,20 @@ Hello. This is My Personal Log and TODO list for the Problem Sets of the Ongoing
 **About the Course:**
 
 https://cs50.harvard.edu/x/2020/
+
 https://www.edx.org/course/cs50s-introduction-to-computer-science/
 
 **About Me:**
+
 https://www.hanges.com.br
+
 My Personal Portfolio Site is "Under Construction" since the first time I used Netscape Navigator Gold 3.0.
 
 It is a Conscious Experiment of Shame.
 
 ## Personal Log
+
+Rio, 15/06/2020
 
 Hi. My Name is Rafael Hanges and I'm a 37yo "Married with Childrens" Kind of Guy. I Love my Family. And this is Important.
 
@@ -28,15 +33,15 @@ The Prime Time Show on TV was a Soap Opera called "Explode Coração". The "Nerd
 
 Top Eterteinment available in Brazilian TV.
 
-Thanks to the Show, "Internet" became a Word, as well "Web" and "Download".
+Thanks to the Show, "Internet" became a Word.
 
 Soon or Later I had access to a list with phone numbers, usernames and passwords to some providers to dial using a software called Trumpet on the Windows 3.11. 
 
 Hello Internet. I Was Waiting for You.
 
 ## Log
-15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/
 
+15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/
 Half of a Half
 
 
