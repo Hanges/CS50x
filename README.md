@@ -52,12 +52,12 @@ Half of a Half
 ## Ideas
 
 * Vaca Verde Kids 
- * Scratch
- * An Interactive Learning Game
- * Letters and Numbers in English and Portuguese.
- * Audience: My Son, Ashtar, 2yo
- * Scratch > Video > Submit
- * Port to Something Else
+  * Scratch
+  * An Interactive Learning Game
+  * Letters and Numbers in English and Portuguese.
+  * Audience: My Son, Ashtar, 2yo
+  * Scratch > Video > Submit
+  * Port to Something Else
  
 * Portfolio Generator
- * HTML, CSS, PHP, mySQL
+  * HTML, CSS, PHP, mySQL
