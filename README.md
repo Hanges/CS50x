@@ -1,9 +1,9 @@
 # Harvard CS50x 2020
 # Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming
 
-## Rafael Hanges
-## rafael@hanges.com.br
-### Rio de Janeiro, RJ, Brazil
+* Rafael Hanges
+* rafael@hanges.com.br
+* Rio de Janeiro, RJ, Brazil
 
 Hello. This is My Personal Log and TODO list for the Problem Sets of the Ongoing Harvard's CS50x 2020 Introduction to Computer Science.
 
