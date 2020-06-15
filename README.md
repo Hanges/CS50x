@@ -37,12 +37,11 @@ Thanks to the Show, "Internet" became a Word.
 
 Soon or Later I had access to a list with phone numbers, usernames and passwords to some providers to dial using a software called Trumpet on the Windows 3.11. 
 
-Hello Internet. I Was Waiting for You.
+Hello. I Was Waiting for You.
 
 ## Log
 
-15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/
-Half of a Half
+15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/ - Half of a Half!
 
 
 ## TODO
@@ -51,7 +50,7 @@ Half of a Half
 
 ## Ideas
 
-* Vaca Verde Kids 
+* **Vaca Verde Kids** 
   * Scratch
   * An Interactive Learning Game
   * Letters and Numbers in English and Portuguese.
@@ -59,5 +58,5 @@ Half of a Half
   * Scratch > Video > Submit
   * Port to Something Else
  
-* Portfolio Generator
-  * HTML, CSS, PHP, mySQL
+* **Portfolio Generator**
+  * HTML, CSS, mySQL, Python(?)
