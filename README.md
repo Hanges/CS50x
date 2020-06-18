@@ -23,7 +23,8 @@ It is a Conscious Experiment of Shame.
 
 ## Personal Log
 
-Rio, 15/06/2020
+----------
+--- Rio, 15/06/2020
 
 Hi. My Name is Rafael Hanges and I'm a 37yo "Married with Childrens" Kind of Guy. I Love my Family. And this is Important.
 
@@ -39,13 +40,20 @@ Soon or Later I had access to a list with phone numbers, usernames and passwords
 
 Hello. I Was Waiting for You.
 
+----------
+--- Rio, 17/06/2020
+
+The First Assignment is Done. I may be polishing that for the next few days before submit.
+
 ## Log
 
 15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/ - Half of a Half!
+17-06-2020: "Vaca Verde Kids", my Scratch Game for pset0 - https://scratch.mit.edu/projects/405061093/
 
 
 ## TODO
 - Problem Set 0
+- Start Week 1
 
 
 ## Ideas
