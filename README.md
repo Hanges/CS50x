@@ -47,18 +47,27 @@ The First Assignment is Done. I may be polishing that for the next few days befo
 
 ## Log
 
-15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/ - Half of a Half!
+15-06-2020: Week 0 Start - Scratch - https://scratch.mit.edu/ "Half of a Half!"
 
 17-06-2020: "Vaca Verde Kids", my Scratch Game for pset0 - https://scratch.mit.edu/projects/405061093/
 
+
+17-06-2020: Week 1 Start - C - "The Seventeens"
+
+18-06-2020: Pset1 done and submited 100%. Skipped "credit" for Now.
+
+18-06-2020: Week 2 Start - Arrays - "I Love Tables"
+
+
 ## TODO
-- Problem Set 0
-- Start Week 1
+- Record Video
+- Submit Problem Set 0
+- Do pset2
 
 
 ## Ideas
 
-* **Vaca Verde Kids** 
+* **Vaca Verde Kids** DONE(ISH)
   * Scratch
   * An Interactive Learning Game
   * Letters and Numbers in English and Portuguese.
