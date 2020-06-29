@@ -58,6 +58,8 @@ The First Assignment is Done. I may be polishing that for the next few days befo
 
 18-06-2020: Week 2 Start - Arrays - "I Love Tables"
 
+29-06-2020: Took a Break. Back to It.
+
 
 ## TODO
 - Record Video
